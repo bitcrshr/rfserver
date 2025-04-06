@@ -1,0 +1,7 @@
+.DS_STORE
+.ignore
+build/
+toolchain/
+pico-sdk/
+.cache
+*.env
